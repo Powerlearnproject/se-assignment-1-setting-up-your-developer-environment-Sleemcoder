@@ -21,9 +21,10 @@ This assignment aims to familiarize you with the tools and configurations necess
    SETTING UP MY IDE ASSIGNMENT FOR WINDOWS
 
 1) How to install Visual Studio code
+
    a. Visit https://code.visualstudio.com/Download on your browser.
    b. Click on the "Windows" download button to get the installer.
-   ![image](Screenshot (33).png)
+   ![image](C:\Users\HP\Pictures\Screenshots\Screenshot (33).png)
 
 • Run the Installer:
 c. Locate the downloaded .exe file and double-click to run it.
