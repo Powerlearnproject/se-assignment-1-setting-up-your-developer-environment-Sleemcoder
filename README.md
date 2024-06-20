@@ -24,7 +24,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
    a. Visit https://code.visualstudio.com/Download on your browser.
    b. Click on the "Windows" download button to get the installer.
-   ![image](C:\Users\HP\Pictures\Screenshots\Screenshot (33).png)
+   ![image](<Screenshot%20(33).png>)
 
 • Run the Installer:
 c. Locate the downloaded .exe file and double-click to run it.
